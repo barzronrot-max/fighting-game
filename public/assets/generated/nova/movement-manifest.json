@@ -1,0 +1,174 @@
+{
+  "source": "public/assets/generated/nova-movement-001-alpha.png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "frames": [
+    {
+      "motion": "run",
+      "index": 0,
+      "file": "public/assets/generated/nova/run-0.png",
+      "sourceBox": [
+        26,
+        244,
+        259,
+        575
+      ],
+      "trimmedSize": [
+        233,
+        303
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 1,
+      "file": "public/assets/generated/nova/run-1.png",
+      "sourceBox": [
+        297,
+        244,
+        470,
+        592
+      ],
+      "trimmedSize": [
+        173,
+        320
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 2,
+      "file": "public/assets/generated/nova/run-2.png",
+      "sourceBox": [
+        494,
+        256,
+        684,
+        592
+      ],
+      "trimmedSize": [
+        190,
+        308
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 3,
+      "file": "public/assets/generated/nova/run-3.png",
+      "sourceBox": [
+        697,
+        254,
+        891,
+        592
+      ],
+      "trimmedSize": [
+        194,
+        310
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 4,
+      "file": "public/assets/generated/nova/run-4.png",
+      "sourceBox": [
+        927,
+        260,
+        1116,
+        595
+      ],
+      "trimmedSize": [
+        189,
+        307
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 0,
+      "file": "public/assets/generated/nova/jump-tuck-0.png",
+      "sourceBox": [
+        1153,
+        341,
+        1298,
+        598
+      ],
+      "trimmedSize": [
+        145,
+        229
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 1,
+      "file": "public/assets/generated/nova/jump-tuck-1.png",
+      "sourceBox": [
+        1326,
+        215,
+        1473,
+        543
+      ],
+      "trimmedSize": [
+        147,
+        300
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 2,
+      "file": "public/assets/generated/nova/jump-tuck-2.png",
+      "sourceBox": [
+        1501,
+        174,
+        1655,
+        455
+      ],
+      "trimmedSize": [
+        154,
+        253
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 3,
+      "file": "public/assets/generated/nova/jump-tuck-3.png",
+      "sourceBox": [
+        1692,
+        174,
+        1833,
+        461
+      ],
+      "trimmedSize": [
+        141,
+        259
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 4,
+      "file": "public/assets/generated/nova/jump-tuck-4.png",
+      "sourceBox": [
+        1862,
+        275,
+        2000,
+        589
+      ],
+      "trimmedSize": [
+        136,
+        286
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 5,
+      "file": "public/assets/generated/nova/jump-tuck-5.png",
+      "sourceBox": [
+        2002,
+        394,
+        2138,
+        598
+      ],
+      "trimmedSize": [
+        136,
+        176
+      ]
+    }
+  ]
+}

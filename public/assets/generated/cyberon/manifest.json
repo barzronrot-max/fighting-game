@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/cyberon-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/cyberon/idle.png",
+      "variants": [
+        "public/assets/generated/cyberon/idle-0.png",
+        "public/assets/generated/cyberon/idle-1.png",
+        "public/assets/generated/cyberon/idle-2.png",
+        "public/assets/generated/cyberon/idle-3.png",
+        "public/assets/generated/cyberon/idle-4.png",
+        "public/assets/generated/cyberon/idle-5.png",
+        "public/assets/generated/cyberon/idle-6.png",
+        "public/assets/generated/cyberon/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/cyberon/run.png",
+      "variants": [
+        "public/assets/generated/cyberon/run-0.png",
+        "public/assets/generated/cyberon/run-1.png",
+        "public/assets/generated/cyberon/run-2.png",
+        "public/assets/generated/cyberon/run-3.png",
+        "public/assets/generated/cyberon/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/cyberon/walk.png",
+      "variants": [
+        "public/assets/generated/cyberon/walk-0.png",
+        "public/assets/generated/cyberon/walk-1.png",
+        "public/assets/generated/cyberon/walk-2.png",
+        "public/assets/generated/cyberon/walk-3.png",
+        "public/assets/generated/cyberon/walk-4.png",
+        "public/assets/generated/cyberon/walk-5.png",
+        "public/assets/generated/cyberon/walk-6.png",
+        "public/assets/generated/cyberon/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/cyberon/crouch.png",
+      "variants": [
+        "public/assets/generated/cyberon/crouch-0.png",
+        "public/assets/generated/cyberon/crouch-1.png",
+        "public/assets/generated/cyberon/crouch-2.png",
+        "public/assets/generated/cyberon/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/cyberon/jump.png",
+      "variants": [
+        "public/assets/generated/cyberon/jump-0.png",
+        "public/assets/generated/cyberon/jump-1.png",
+        "public/assets/generated/cyberon/jump-2.png",
+        "public/assets/generated/cyberon/jump-3.png",
+        "public/assets/generated/cyberon/jump-4.png",
+        "public/assets/generated/cyberon/jump-5.png",
+        "public/assets/generated/cyberon/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/cyberon/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/cyberon/jump-tuck-0.png",
+        "public/assets/generated/cyberon/jump-tuck-1.png",
+        "public/assets/generated/cyberon/jump-tuck-2.png",
+        "public/assets/generated/cyberon/jump-tuck-3.png",
+        "public/assets/generated/cyberon/jump-tuck-4.png",
+        "public/assets/generated/cyberon/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/cyberon/light.png",
+      "variants": [
+        "public/assets/generated/cyberon/light-0.png",
+        "public/assets/generated/cyberon/light-1.png",
+        "public/assets/generated/cyberon/light-2.png",
+        "public/assets/generated/cyberon/light-3.png",
+        "public/assets/generated/cyberon/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/cyberon/heavy.png",
+      "variants": [
+        "public/assets/generated/cyberon/heavy-0.png",
+        "public/assets/generated/cyberon/heavy-1.png",
+        "public/assets/generated/cyberon/heavy-2.png",
+        "public/assets/generated/cyberon/heavy-3.png",
+        "public/assets/generated/cyberon/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/cyberon/kick.png",
+      "variants": [
+        "public/assets/generated/cyberon/kick-0.png",
+        "public/assets/generated/cyberon/kick-1.png",
+        "public/assets/generated/cyberon/kick-2.png",
+        "public/assets/generated/cyberon/kick-3.png",
+        "public/assets/generated/cyberon/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/cyberon/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/cyberon/crouch-punch-0.png",
+        "public/assets/generated/cyberon/crouch-punch-1.png",
+        "public/assets/generated/cyberon/crouch-punch-2.png",
+        "public/assets/generated/cyberon/crouch-punch-3.png",
+        "public/assets/generated/cyberon/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/cyberon/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/cyberon/crouch-kick-0.png",
+        "public/assets/generated/cyberon/crouch-kick-1.png",
+        "public/assets/generated/cyberon/crouch-kick-2.png",
+        "public/assets/generated/cyberon/crouch-kick-3.png",
+        "public/assets/generated/cyberon/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/cyberon/hit.png",
+      "variants": [
+        "public/assets/generated/cyberon/hit-0.png",
+        "public/assets/generated/cyberon/hit-1.png",
+        "public/assets/generated/cyberon/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/cyberon/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/cyberon/crouch-hit-0.png",
+        "public/assets/generated/cyberon/crouch-hit-1.png",
+        "public/assets/generated/cyberon/crouch-hit-2.png",
+        "public/assets/generated/cyberon/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/cyberon/air-hit.png",
+      "variants": [
+        "public/assets/generated/cyberon/air-hit-0.png",
+        "public/assets/generated/cyberon/air-hit-1.png",
+        "public/assets/generated/cyberon/air-hit-2.png",
+        "public/assets/generated/cyberon/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/cyberon/block.png",
+      "variants": [
+        "public/assets/generated/cyberon/block-0.png",
+        "public/assets/generated/cyberon/block-1.png",
+        "public/assets/generated/cyberon/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/cyberon/landing.png",
+      "variants": [
+        "public/assets/generated/cyberon/landing-0.png",
+        "public/assets/generated/cyberon/landing-1.png",
+        "public/assets/generated/cyberon/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/cyberon/knockdown.png",
+      "variants": [
+        "public/assets/generated/cyberon/knockdown-0.png",
+        "public/assets/generated/cyberon/knockdown-1.png",
+        "public/assets/generated/cyberon/knockdown-2.png",
+        "public/assets/generated/cyberon/knockdown-3.png",
+        "public/assets/generated/cyberon/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/cyberon/wake.png",
+      "variants": [
+        "public/assets/generated/cyberon/wake-0.png",
+        "public/assets/generated/cyberon/wake-1.png",
+        "public/assets/generated/cyberon/wake-2.png",
+        "public/assets/generated/cyberon/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/cyberon/ko.png",
+      "variants": [
+        "public/assets/generated/cyberon/ko-0.png",
+        "public/assets/generated/cyberon/ko-1.png",
+        "public/assets/generated/cyberon/ko-2.png",
+        "public/assets/generated/cyberon/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/cyberon/victory.png",
+      "variants": [
+        "public/assets/generated/cyberon/victory-0.png",
+        "public/assets/generated/cyberon/victory-1.png",
+        "public/assets/generated/cyberon/victory-2.png",
+        "public/assets/generated/cyberon/victory-3.png",
+        "public/assets/generated/cyberon/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/cyberon/special.png",
+      "variants": [
+        "public/assets/generated/cyberon/special-0.png",
+        "public/assets/generated/cyberon/special-1.png",
+        "public/assets/generated/cyberon/special-2.png",
+        "public/assets/generated/cyberon/special-3.png",
+        "public/assets/generated/cyberon/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/cyberon/super.png",
+      "variants": [
+        "public/assets/generated/cyberon/super-0.png",
+        "public/assets/generated/cyberon/super-1.png",
+        "public/assets/generated/cyberon/super-2.png",
+        "public/assets/generated/cyberon/super-3.png",
+        "public/assets/generated/cyberon/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/cyberon/throw.png",
+      "variants": [
+        "public/assets/generated/cyberon/throw-0.png",
+        "public/assets/generated/cyberon/throw-1.png",
+        "public/assets/generated/cyberon/throw-2.png",
+        "public/assets/generated/cyberon/throw-3.png"
+      ]
+    }
+  ]
+}

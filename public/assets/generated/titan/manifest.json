@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/titan-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/titan/idle.png",
+      "variants": [
+        "public/assets/generated/titan/idle-0.png",
+        "public/assets/generated/titan/idle-1.png",
+        "public/assets/generated/titan/idle-2.png",
+        "public/assets/generated/titan/idle-3.png",
+        "public/assets/generated/titan/idle-4.png",
+        "public/assets/generated/titan/idle-5.png",
+        "public/assets/generated/titan/idle-6.png",
+        "public/assets/generated/titan/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/titan/run.png",
+      "variants": [
+        "public/assets/generated/titan/run-0.png",
+        "public/assets/generated/titan/run-1.png",
+        "public/assets/generated/titan/run-2.png",
+        "public/assets/generated/titan/run-3.png",
+        "public/assets/generated/titan/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/titan/walk.png",
+      "variants": [
+        "public/assets/generated/titan/walk-0.png",
+        "public/assets/generated/titan/walk-1.png",
+        "public/assets/generated/titan/walk-2.png",
+        "public/assets/generated/titan/walk-3.png",
+        "public/assets/generated/titan/walk-4.png",
+        "public/assets/generated/titan/walk-5.png",
+        "public/assets/generated/titan/walk-6.png",
+        "public/assets/generated/titan/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/titan/crouch.png",
+      "variants": [
+        "public/assets/generated/titan/crouch-0.png",
+        "public/assets/generated/titan/crouch-1.png",
+        "public/assets/generated/titan/crouch-2.png",
+        "public/assets/generated/titan/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/titan/jump.png",
+      "variants": [
+        "public/assets/generated/titan/jump-0.png",
+        "public/assets/generated/titan/jump-1.png",
+        "public/assets/generated/titan/jump-2.png",
+        "public/assets/generated/titan/jump-3.png",
+        "public/assets/generated/titan/jump-4.png",
+        "public/assets/generated/titan/jump-5.png",
+        "public/assets/generated/titan/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/titan/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/titan/jump-tuck-0.png",
+        "public/assets/generated/titan/jump-tuck-1.png",
+        "public/assets/generated/titan/jump-tuck-2.png",
+        "public/assets/generated/titan/jump-tuck-3.png",
+        "public/assets/generated/titan/jump-tuck-4.png",
+        "public/assets/generated/titan/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/titan/light.png",
+      "variants": [
+        "public/assets/generated/titan/light-0.png",
+        "public/assets/generated/titan/light-1.png",
+        "public/assets/generated/titan/light-2.png",
+        "public/assets/generated/titan/light-3.png",
+        "public/assets/generated/titan/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/titan/heavy.png",
+      "variants": [
+        "public/assets/generated/titan/heavy-0.png",
+        "public/assets/generated/titan/heavy-1.png",
+        "public/assets/generated/titan/heavy-2.png",
+        "public/assets/generated/titan/heavy-3.png",
+        "public/assets/generated/titan/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/titan/kick.png",
+      "variants": [
+        "public/assets/generated/titan/kick-0.png",
+        "public/assets/generated/titan/kick-1.png",
+        "public/assets/generated/titan/kick-2.png",
+        "public/assets/generated/titan/kick-3.png",
+        "public/assets/generated/titan/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/titan/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/titan/crouch-punch-0.png",
+        "public/assets/generated/titan/crouch-punch-1.png",
+        "public/assets/generated/titan/crouch-punch-2.png",
+        "public/assets/generated/titan/crouch-punch-3.png",
+        "public/assets/generated/titan/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/titan/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/titan/crouch-kick-0.png",
+        "public/assets/generated/titan/crouch-kick-1.png",
+        "public/assets/generated/titan/crouch-kick-2.png",
+        "public/assets/generated/titan/crouch-kick-3.png",
+        "public/assets/generated/titan/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/titan/hit.png",
+      "variants": [
+        "public/assets/generated/titan/hit-0.png",
+        "public/assets/generated/titan/hit-1.png",
+        "public/assets/generated/titan/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/titan/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/titan/crouch-hit-0.png",
+        "public/assets/generated/titan/crouch-hit-1.png",
+        "public/assets/generated/titan/crouch-hit-2.png",
+        "public/assets/generated/titan/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/titan/air-hit.png",
+      "variants": [
+        "public/assets/generated/titan/air-hit-0.png",
+        "public/assets/generated/titan/air-hit-1.png",
+        "public/assets/generated/titan/air-hit-2.png",
+        "public/assets/generated/titan/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/titan/block.png",
+      "variants": [
+        "public/assets/generated/titan/block-0.png",
+        "public/assets/generated/titan/block-1.png",
+        "public/assets/generated/titan/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/titan/landing.png",
+      "variants": [
+        "public/assets/generated/titan/landing-0.png",
+        "public/assets/generated/titan/landing-1.png",
+        "public/assets/generated/titan/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/titan/knockdown.png",
+      "variants": [
+        "public/assets/generated/titan/knockdown-0.png",
+        "public/assets/generated/titan/knockdown-1.png",
+        "public/assets/generated/titan/knockdown-2.png",
+        "public/assets/generated/titan/knockdown-3.png",
+        "public/assets/generated/titan/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/titan/wake.png",
+      "variants": [
+        "public/assets/generated/titan/wake-0.png",
+        "public/assets/generated/titan/wake-1.png",
+        "public/assets/generated/titan/wake-2.png",
+        "public/assets/generated/titan/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/titan/ko.png",
+      "variants": [
+        "public/assets/generated/titan/ko-0.png",
+        "public/assets/generated/titan/ko-1.png",
+        "public/assets/generated/titan/ko-2.png",
+        "public/assets/generated/titan/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/titan/victory.png",
+      "variants": [
+        "public/assets/generated/titan/victory-0.png",
+        "public/assets/generated/titan/victory-1.png",
+        "public/assets/generated/titan/victory-2.png",
+        "public/assets/generated/titan/victory-3.png",
+        "public/assets/generated/titan/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/titan/special.png",
+      "variants": [
+        "public/assets/generated/titan/special-0.png",
+        "public/assets/generated/titan/special-1.png",
+        "public/assets/generated/titan/special-2.png",
+        "public/assets/generated/titan/special-3.png",
+        "public/assets/generated/titan/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/titan/super.png",
+      "variants": [
+        "public/assets/generated/titan/super-0.png",
+        "public/assets/generated/titan/super-1.png",
+        "public/assets/generated/titan/super-2.png",
+        "public/assets/generated/titan/super-3.png",
+        "public/assets/generated/titan/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/titan/throw.png",
+      "variants": [
+        "public/assets/generated/titan/throw-0.png",
+        "public/assets/generated/titan/throw-1.png",
+        "public/assets/generated/titan/throw-2.png",
+        "public/assets/generated/titan/throw-3.png"
+      ]
+    }
+  ]
+}

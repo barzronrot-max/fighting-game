@@ -1,0 +1,43 @@
+:root {
+  color: #f8fafc;
+  background: #09090f;
+  font-family: Consolas, 'Courier New', monospace;
+  letter-spacing: 0;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100svh;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 50% 20%, rgba(45, 212, 191, 0.18), transparent 36%),
+    linear-gradient(180deg, #111827 0%, #09090f 62%, #050509 100%);
+}
+
+#app {
+  display: grid;
+  place-items: center;
+}
+
+canvas {
+  display: block;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  box-shadow: 0 22px 90px rgba(0, 0, 0, 0.62);
+}

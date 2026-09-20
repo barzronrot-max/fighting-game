@@ -1,0 +1,291 @@
+{
+  "source": "public/assets/generated/kai-spritesheet-001-alpha.png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "footPadding": 6,
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/kai/idle.png",
+      "variants": [
+        "public/assets/generated/kai/idle-0.png",
+        "public/assets/generated/kai/idle-1.png",
+        "public/assets/generated/kai/idle-2.png",
+        "public/assets/generated/kai/idle-3.png",
+        "public/assets/generated/kai/idle-4.png",
+        "public/assets/generated/kai/idle-5.png",
+        "public/assets/generated/kai/idle-6.png",
+        "public/assets/generated/kai/idle-7.png"
+      ],
+      "sourceBox": [
+        23,
+        193,
+        248,
+        555
+      ],
+      "trimmedSize": [
+        225,
+        362
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/kai/walk.png",
+      "variants": [
+        "public/assets/generated/kai/walk-0.png",
+        "public/assets/generated/kai/walk-1.png",
+        "public/assets/generated/kai/walk-2.png",
+        "public/assets/generated/kai/walk-3.png",
+        "public/assets/generated/kai/walk-4.png",
+        "public/assets/generated/kai/walk-5.png",
+        "public/assets/generated/kai/walk-6.png",
+        "public/assets/generated/kai/walk-7.png"
+      ],
+      "sourceBox": [
+        285,
+        209,
+        526,
+        551
+      ],
+      "trimmedSize": [
+        241,
+        342
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/kai/crouch.png",
+      "variants": [
+        "public/assets/generated/kai/crouch-0.png",
+        "public/assets/generated/kai/crouch-1.png",
+        "public/assets/generated/kai/crouch-2.png",
+        "public/assets/generated/kai/crouch-3.png"
+      ],
+      "sourceBox": [
+        565,
+        311,
+        809,
+        555
+      ],
+      "trimmedSize": [
+        244,
+        244
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/kai/jump.png",
+      "variants": [
+        "public/assets/generated/kai/jump-0.png",
+        "public/assets/generated/kai/jump-1.png",
+        "public/assets/generated/kai/jump-2.png",
+        "public/assets/generated/kai/jump-3.png",
+        "public/assets/generated/kai/jump-4.png"
+      ],
+      "sourceBox": [
+        829,
+        102,
+        1050,
+        480
+      ],
+      "trimmedSize": [
+        221,
+        378
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/kai/light.png",
+      "variants": [
+        "public/assets/generated/kai/light-0.png",
+        "public/assets/generated/kai/light-1.png",
+        "public/assets/generated/kai/light-2.png",
+        "public/assets/generated/kai/light-3.png",
+        "public/assets/generated/kai/light-4.png"
+      ],
+      "sourceBox": [
+        1063,
+        196,
+        1379,
+        555
+      ],
+      "trimmedSize": [
+        316,
+        359
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/kai/heavy.png",
+      "variants": [
+        "public/assets/generated/kai/heavy-0.png",
+        "public/assets/generated/kai/heavy-1.png",
+        "public/assets/generated/kai/heavy-2.png",
+        "public/assets/generated/kai/heavy-3.png",
+        "public/assets/generated/kai/heavy-4.png"
+      ],
+      "sourceBox": [
+        1331,
+        219,
+        1620,
+        555
+      ],
+      "trimmedSize": [
+        289,
+        336
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/kai/kick.png",
+      "variants": [
+        "public/assets/generated/kai/kick-0.png",
+        "public/assets/generated/kai/kick-1.png",
+        "public/assets/generated/kai/kick-2.png",
+        "public/assets/generated/kai/kick-3.png",
+        "public/assets/generated/kai/kick-4.png"
+      ],
+      "sourceBox": [
+        1621,
+        209,
+        1939,
+        555
+      ],
+      "trimmedSize": [
+        318,
+        346
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/kai/hit.png",
+      "variants": [
+        "public/assets/generated/kai/hit-0.png",
+        "public/assets/generated/kai/hit-1.png",
+        "public/assets/generated/kai/hit-2.png"
+      ],
+      "sourceBox": [
+        1855,
+        206,
+        2128,
+        555
+      ],
+      "trimmedSize": [
+        273,
+        349
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/kai/block.png",
+      "variants": [
+        "public/assets/generated/kai/block-0.png",
+        "public/assets/generated/kai/block-1.png",
+        "public/assets/generated/kai/block-2.png"
+      ],
+      "source": "public/assets/generated/kai-block-002.png",
+      "scale": 0.7403
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/kai/landing.png",
+      "variants": [
+        "public/assets/generated/kai/landing-0.png",
+        "public/assets/generated/kai/landing-1.png",
+        "public/assets/generated/kai/landing-2.png"
+      ],
+      "source": "public/assets/generated/kai-landing-gen.png",
+      "scale": 0.643
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/kai/knockdown.png",
+      "variants": [
+        "public/assets/generated/kai/knockdown-0.png",
+        "public/assets/generated/kai/knockdown-1.png",
+        "public/assets/generated/kai/knockdown-2.png",
+        "public/assets/generated/kai/knockdown-3.png",
+        "public/assets/generated/kai/knockdown-4.png"
+      ],
+      "source": "public/assets/generated/kai-knockdown-gen.png",
+      "scale": 0.7239
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/kai/wake.png",
+      "variants": [
+        "public/assets/generated/kai/wake-0.png",
+        "public/assets/generated/kai/wake-1.png",
+        "public/assets/generated/kai/wake-2.png",
+        "public/assets/generated/kai/wake-3.png"
+      ],
+      "source": "public/assets/generated/kai-wake-gen.png",
+      "scale": 0.5746
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/kai/ko.png",
+      "variants": [
+        "public/assets/generated/kai/ko-0.png",
+        "public/assets/generated/kai/ko-1.png",
+        "public/assets/generated/kai/ko-2.png",
+        "public/assets/generated/kai/ko-3.png"
+      ],
+      "source": "public/assets/generated/kai-ko-gen.png",
+      "scale": 0.6278
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/kai/special.png",
+      "variants": [
+        "public/assets/generated/kai/special-0.png",
+        "public/assets/generated/kai/special-1.png",
+        "public/assets/generated/kai/special-2.png",
+        "public/assets/generated/kai/special-3.png",
+        "public/assets/generated/kai/special-4.png"
+      ],
+      "source": "public/assets/generated/kai-special-gen.png",
+      "scale": 0.6178
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/kai/throw.png",
+      "variants": [
+        "public/assets/generated/kai/throw-0.png",
+        "public/assets/generated/kai/throw-1.png",
+        "public/assets/generated/kai/throw-2.png",
+        "public/assets/generated/kai/throw-3.png"
+      ],
+      "source": "public/assets/generated/kai-throw-gen.png",
+      "scale": 0.6783
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/kai/victory.png",
+      "variants": [
+        "public/assets/generated/kai/victory-0.png",
+        "public/assets/generated/kai/victory-1.png",
+        "public/assets/generated/kai/victory-2.png",
+        "public/assets/generated/kai/victory-3.png",
+        "public/assets/generated/kai/victory-4.png"
+      ],
+      "source": "public/assets/generated/kai-victory-gen.png",
+      "scale": 0.5578
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/kai/super.png",
+      "variants": [
+        "public/assets/generated/kai/super-0.png",
+        "public/assets/generated/kai/super-1.png",
+        "public/assets/generated/kai/super-2.png",
+        "public/assets/generated/kai/super-3.png",
+        "public/assets/generated/kai/super-4.png"
+      ],
+      "source": "public/assets/generated/kai-super-gen.png",
+      "scale": 0.808
+    }
+  ]
+}

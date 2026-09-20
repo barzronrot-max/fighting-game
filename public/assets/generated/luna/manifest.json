@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/luna-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/luna/idle.png",
+      "variants": [
+        "public/assets/generated/luna/idle-0.png",
+        "public/assets/generated/luna/idle-1.png",
+        "public/assets/generated/luna/idle-2.png",
+        "public/assets/generated/luna/idle-3.png",
+        "public/assets/generated/luna/idle-4.png",
+        "public/assets/generated/luna/idle-5.png",
+        "public/assets/generated/luna/idle-6.png",
+        "public/assets/generated/luna/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/luna/run.png",
+      "variants": [
+        "public/assets/generated/luna/run-0.png",
+        "public/assets/generated/luna/run-1.png",
+        "public/assets/generated/luna/run-2.png",
+        "public/assets/generated/luna/run-3.png",
+        "public/assets/generated/luna/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/luna/walk.png",
+      "variants": [
+        "public/assets/generated/luna/walk-0.png",
+        "public/assets/generated/luna/walk-1.png",
+        "public/assets/generated/luna/walk-2.png",
+        "public/assets/generated/luna/walk-3.png",
+        "public/assets/generated/luna/walk-4.png",
+        "public/assets/generated/luna/walk-5.png",
+        "public/assets/generated/luna/walk-6.png",
+        "public/assets/generated/luna/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/luna/crouch.png",
+      "variants": [
+        "public/assets/generated/luna/crouch-0.png",
+        "public/assets/generated/luna/crouch-1.png",
+        "public/assets/generated/luna/crouch-2.png",
+        "public/assets/generated/luna/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/luna/jump.png",
+      "variants": [
+        "public/assets/generated/luna/jump-0.png",
+        "public/assets/generated/luna/jump-1.png",
+        "public/assets/generated/luna/jump-2.png",
+        "public/assets/generated/luna/jump-3.png",
+        "public/assets/generated/luna/jump-4.png",
+        "public/assets/generated/luna/jump-5.png",
+        "public/assets/generated/luna/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/luna/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/luna/jump-tuck-0.png",
+        "public/assets/generated/luna/jump-tuck-1.png",
+        "public/assets/generated/luna/jump-tuck-2.png",
+        "public/assets/generated/luna/jump-tuck-3.png",
+        "public/assets/generated/luna/jump-tuck-4.png",
+        "public/assets/generated/luna/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/luna/light.png",
+      "variants": [
+        "public/assets/generated/luna/light-0.png",
+        "public/assets/generated/luna/light-1.png",
+        "public/assets/generated/luna/light-2.png",
+        "public/assets/generated/luna/light-3.png",
+        "public/assets/generated/luna/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/luna/heavy.png",
+      "variants": [
+        "public/assets/generated/luna/heavy-0.png",
+        "public/assets/generated/luna/heavy-1.png",
+        "public/assets/generated/luna/heavy-2.png",
+        "public/assets/generated/luna/heavy-3.png",
+        "public/assets/generated/luna/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/luna/kick.png",
+      "variants": [
+        "public/assets/generated/luna/kick-0.png",
+        "public/assets/generated/luna/kick-1.png",
+        "public/assets/generated/luna/kick-2.png",
+        "public/assets/generated/luna/kick-3.png",
+        "public/assets/generated/luna/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/luna/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/luna/crouch-punch-0.png",
+        "public/assets/generated/luna/crouch-punch-1.png",
+        "public/assets/generated/luna/crouch-punch-2.png",
+        "public/assets/generated/luna/crouch-punch-3.png",
+        "public/assets/generated/luna/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/luna/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/luna/crouch-kick-0.png",
+        "public/assets/generated/luna/crouch-kick-1.png",
+        "public/assets/generated/luna/crouch-kick-2.png",
+        "public/assets/generated/luna/crouch-kick-3.png",
+        "public/assets/generated/luna/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/luna/hit.png",
+      "variants": [
+        "public/assets/generated/luna/hit-0.png",
+        "public/assets/generated/luna/hit-1.png",
+        "public/assets/generated/luna/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/luna/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/luna/crouch-hit-0.png",
+        "public/assets/generated/luna/crouch-hit-1.png",
+        "public/assets/generated/luna/crouch-hit-2.png",
+        "public/assets/generated/luna/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/luna/air-hit.png",
+      "variants": [
+        "public/assets/generated/luna/air-hit-0.png",
+        "public/assets/generated/luna/air-hit-1.png",
+        "public/assets/generated/luna/air-hit-2.png",
+        "public/assets/generated/luna/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/luna/block.png",
+      "variants": [
+        "public/assets/generated/luna/block-0.png",
+        "public/assets/generated/luna/block-1.png",
+        "public/assets/generated/luna/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/luna/landing.png",
+      "variants": [
+        "public/assets/generated/luna/landing-0.png",
+        "public/assets/generated/luna/landing-1.png",
+        "public/assets/generated/luna/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/luna/knockdown.png",
+      "variants": [
+        "public/assets/generated/luna/knockdown-0.png",
+        "public/assets/generated/luna/knockdown-1.png",
+        "public/assets/generated/luna/knockdown-2.png",
+        "public/assets/generated/luna/knockdown-3.png",
+        "public/assets/generated/luna/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/luna/wake.png",
+      "variants": [
+        "public/assets/generated/luna/wake-0.png",
+        "public/assets/generated/luna/wake-1.png",
+        "public/assets/generated/luna/wake-2.png",
+        "public/assets/generated/luna/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/luna/ko.png",
+      "variants": [
+        "public/assets/generated/luna/ko-0.png",
+        "public/assets/generated/luna/ko-1.png",
+        "public/assets/generated/luna/ko-2.png",
+        "public/assets/generated/luna/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/luna/victory.png",
+      "variants": [
+        "public/assets/generated/luna/victory-0.png",
+        "public/assets/generated/luna/victory-1.png",
+        "public/assets/generated/luna/victory-2.png",
+        "public/assets/generated/luna/victory-3.png",
+        "public/assets/generated/luna/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/luna/special.png",
+      "variants": [
+        "public/assets/generated/luna/special-0.png",
+        "public/assets/generated/luna/special-1.png",
+        "public/assets/generated/luna/special-2.png",
+        "public/assets/generated/luna/special-3.png",
+        "public/assets/generated/luna/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/luna/super.png",
+      "variants": [
+        "public/assets/generated/luna/super-0.png",
+        "public/assets/generated/luna/super-1.png",
+        "public/assets/generated/luna/super-2.png",
+        "public/assets/generated/luna/super-3.png",
+        "public/assets/generated/luna/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/luna/throw.png",
+      "variants": [
+        "public/assets/generated/luna/throw-0.png",
+        "public/assets/generated/luna/throw-1.png",
+        "public/assets/generated/luna/throw-2.png",
+        "public/assets/generated/luna/throw-3.png"
+      ]
+    }
+  ]
+}

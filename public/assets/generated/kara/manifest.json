@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/kara-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/kara/idle.png",
+      "variants": [
+        "public/assets/generated/kara/idle-0.png",
+        "public/assets/generated/kara/idle-1.png",
+        "public/assets/generated/kara/idle-2.png",
+        "public/assets/generated/kara/idle-3.png",
+        "public/assets/generated/kara/idle-4.png",
+        "public/assets/generated/kara/idle-5.png",
+        "public/assets/generated/kara/idle-6.png",
+        "public/assets/generated/kara/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/kara/run.png",
+      "variants": [
+        "public/assets/generated/kara/run-0.png",
+        "public/assets/generated/kara/run-1.png",
+        "public/assets/generated/kara/run-2.png",
+        "public/assets/generated/kara/run-3.png",
+        "public/assets/generated/kara/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/kara/walk.png",
+      "variants": [
+        "public/assets/generated/kara/walk-0.png",
+        "public/assets/generated/kara/walk-1.png",
+        "public/assets/generated/kara/walk-2.png",
+        "public/assets/generated/kara/walk-3.png",
+        "public/assets/generated/kara/walk-4.png",
+        "public/assets/generated/kara/walk-5.png",
+        "public/assets/generated/kara/walk-6.png",
+        "public/assets/generated/kara/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/kara/crouch.png",
+      "variants": [
+        "public/assets/generated/kara/crouch-0.png",
+        "public/assets/generated/kara/crouch-1.png",
+        "public/assets/generated/kara/crouch-2.png",
+        "public/assets/generated/kara/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/kara/jump.png",
+      "variants": [
+        "public/assets/generated/kara/jump-0.png",
+        "public/assets/generated/kara/jump-1.png",
+        "public/assets/generated/kara/jump-2.png",
+        "public/assets/generated/kara/jump-3.png",
+        "public/assets/generated/kara/jump-4.png",
+        "public/assets/generated/kara/jump-5.png",
+        "public/assets/generated/kara/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/kara/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/kara/jump-tuck-0.png",
+        "public/assets/generated/kara/jump-tuck-1.png",
+        "public/assets/generated/kara/jump-tuck-2.png",
+        "public/assets/generated/kara/jump-tuck-3.png",
+        "public/assets/generated/kara/jump-tuck-4.png",
+        "public/assets/generated/kara/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/kara/light.png",
+      "variants": [
+        "public/assets/generated/kara/light-0.png",
+        "public/assets/generated/kara/light-1.png",
+        "public/assets/generated/kara/light-2.png",
+        "public/assets/generated/kara/light-3.png",
+        "public/assets/generated/kara/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/kara/heavy.png",
+      "variants": [
+        "public/assets/generated/kara/heavy-0.png",
+        "public/assets/generated/kara/heavy-1.png",
+        "public/assets/generated/kara/heavy-2.png",
+        "public/assets/generated/kara/heavy-3.png",
+        "public/assets/generated/kara/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/kara/kick.png",
+      "variants": [
+        "public/assets/generated/kara/kick-0.png",
+        "public/assets/generated/kara/kick-1.png",
+        "public/assets/generated/kara/kick-2.png",
+        "public/assets/generated/kara/kick-3.png",
+        "public/assets/generated/kara/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/kara/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/kara/crouch-punch-0.png",
+        "public/assets/generated/kara/crouch-punch-1.png",
+        "public/assets/generated/kara/crouch-punch-2.png",
+        "public/assets/generated/kara/crouch-punch-3.png",
+        "public/assets/generated/kara/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/kara/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/kara/crouch-kick-0.png",
+        "public/assets/generated/kara/crouch-kick-1.png",
+        "public/assets/generated/kara/crouch-kick-2.png",
+        "public/assets/generated/kara/crouch-kick-3.png",
+        "public/assets/generated/kara/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/kara/hit.png",
+      "variants": [
+        "public/assets/generated/kara/hit-0.png",
+        "public/assets/generated/kara/hit-1.png",
+        "public/assets/generated/kara/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/kara/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/kara/crouch-hit-0.png",
+        "public/assets/generated/kara/crouch-hit-1.png",
+        "public/assets/generated/kara/crouch-hit-2.png",
+        "public/assets/generated/kara/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/kara/air-hit.png",
+      "variants": [
+        "public/assets/generated/kara/air-hit-0.png",
+        "public/assets/generated/kara/air-hit-1.png",
+        "public/assets/generated/kara/air-hit-2.png",
+        "public/assets/generated/kara/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/kara/block.png",
+      "variants": [
+        "public/assets/generated/kara/block-0.png",
+        "public/assets/generated/kara/block-1.png",
+        "public/assets/generated/kara/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/kara/landing.png",
+      "variants": [
+        "public/assets/generated/kara/landing-0.png",
+        "public/assets/generated/kara/landing-1.png",
+        "public/assets/generated/kara/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/kara/knockdown.png",
+      "variants": [
+        "public/assets/generated/kara/knockdown-0.png",
+        "public/assets/generated/kara/knockdown-1.png",
+        "public/assets/generated/kara/knockdown-2.png",
+        "public/assets/generated/kara/knockdown-3.png",
+        "public/assets/generated/kara/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/kara/wake.png",
+      "variants": [
+        "public/assets/generated/kara/wake-0.png",
+        "public/assets/generated/kara/wake-1.png",
+        "public/assets/generated/kara/wake-2.png",
+        "public/assets/generated/kara/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/kara/ko.png",
+      "variants": [
+        "public/assets/generated/kara/ko-0.png",
+        "public/assets/generated/kara/ko-1.png",
+        "public/assets/generated/kara/ko-2.png",
+        "public/assets/generated/kara/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/kara/victory.png",
+      "variants": [
+        "public/assets/generated/kara/victory-0.png",
+        "public/assets/generated/kara/victory-1.png",
+        "public/assets/generated/kara/victory-2.png",
+        "public/assets/generated/kara/victory-3.png",
+        "public/assets/generated/kara/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/kara/special.png",
+      "variants": [
+        "public/assets/generated/kara/special-0.png",
+        "public/assets/generated/kara/special-1.png",
+        "public/assets/generated/kara/special-2.png",
+        "public/assets/generated/kara/special-3.png",
+        "public/assets/generated/kara/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/kara/super.png",
+      "variants": [
+        "public/assets/generated/kara/super-0.png",
+        "public/assets/generated/kara/super-1.png",
+        "public/assets/generated/kara/super-2.png",
+        "public/assets/generated/kara/super-3.png",
+        "public/assets/generated/kara/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/kara/throw.png",
+      "variants": [
+        "public/assets/generated/kara/throw-0.png",
+        "public/assets/generated/kara/throw-1.png",
+        "public/assets/generated/kara/throw-2.png",
+        "public/assets/generated/kara/throw-3.png"
+      ]
+    }
+  ]
+}

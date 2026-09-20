@@ -1,0 +1,174 @@
+{
+  "source": "public/assets/generated/kai-movement-001-alpha.png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "frames": [
+    {
+      "motion": "run",
+      "index": 0,
+      "file": "public/assets/generated/kai/run-0.png",
+      "sourceBox": [
+        13,
+        265,
+        242,
+        573
+      ],
+      "trimmedSize": [
+        229,
+        280
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 1,
+      "file": "public/assets/generated/kai/run-1.png",
+      "sourceBox": [
+        276,
+        265,
+        410,
+        573
+      ],
+      "trimmedSize": [
+        134,
+        280
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 2,
+      "file": "public/assets/generated/kai/run-2.png",
+      "sourceBox": [
+        414,
+        265,
+        602,
+        570
+      ],
+      "trimmedSize": [
+        188,
+        277
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 3,
+      "file": "public/assets/generated/kai/run-3.png",
+      "sourceBox": [
+        608,
+        273,
+        820,
+        577
+      ],
+      "trimmedSize": [
+        212,
+        276
+      ]
+    },
+    {
+      "motion": "run",
+      "index": 4,
+      "file": "public/assets/generated/kai/run-4.png",
+      "sourceBox": [
+        851,
+        286,
+        1066,
+        573
+      ],
+      "trimmedSize": [
+        215,
+        259
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 0,
+      "file": "public/assets/generated/kai/jump-tuck-0.png",
+      "sourceBox": [
+        1115,
+        339,
+        1292,
+        573
+      ],
+      "trimmedSize": [
+        177,
+        206
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 1,
+      "file": "public/assets/generated/kai/jump-tuck-1.png",
+      "sourceBox": [
+        1313,
+        210,
+        1441,
+        541
+      ],
+      "trimmedSize": [
+        128,
+        303
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 2,
+      "file": "public/assets/generated/kai/jump-tuck-2.png",
+      "sourceBox": [
+        1470,
+        160,
+        1613,
+        417
+      ],
+      "trimmedSize": [
+        143,
+        229
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 3,
+      "file": "public/assets/generated/kai/jump-tuck-3.png",
+      "sourceBox": [
+        1643,
+        178,
+        1776,
+        456
+      ],
+      "trimmedSize": [
+        133,
+        250
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 4,
+      "file": "public/assets/generated/kai/jump-tuck-4.png",
+      "sourceBox": [
+        1806,
+        266,
+        1938,
+        573
+      ],
+      "trimmedSize": [
+        132,
+        279
+      ]
+    },
+    {
+      "motion": "jump-tuck",
+      "index": 5,
+      "file": "public/assets/generated/kai/jump-tuck-5.png",
+      "sourceBox": [
+        1996,
+        373,
+        2162,
+        579
+      ],
+      "trimmedSize": [
+        166,
+        178
+      ]
+    }
+  ]
+}

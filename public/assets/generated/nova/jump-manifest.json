@@ -1,0 +1,107 @@
+{
+  "source": "public/assets/generated/nova-jump-bent-001-alpha.png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "frames": [
+    {
+      "index": 0,
+      "file": "public/assets/generated/nova/jump-0.png",
+      "sourceBox": [
+        36,
+        359,
+        266,
+        658
+      ],
+      "trimmedSize": [
+        230,
+        299
+      ]
+    },
+    {
+      "index": 1,
+      "file": "public/assets/generated/nova/jump-1.png",
+      "sourceBox": [
+        309,
+        149,
+        552,
+        638
+      ],
+      "trimmedSize": [
+        243,
+        489
+      ]
+    },
+    {
+      "index": 2,
+      "file": "public/assets/generated/nova/jump-2.png",
+      "sourceBox": [
+        610,
+        76,
+        855,
+        429
+      ],
+      "trimmedSize": [
+        245,
+        353
+      ]
+    },
+    {
+      "index": 3,
+      "file": "public/assets/generated/nova/jump-3.png",
+      "sourceBox": [
+        898,
+        76,
+        1104,
+        445
+      ],
+      "trimmedSize": [
+        206,
+        369
+      ]
+    },
+    {
+      "index": 4,
+      "file": "public/assets/generated/nova/jump-4.png",
+      "sourceBox": [
+        1161,
+        123,
+        1432,
+        570
+      ],
+      "trimmedSize": [
+        271,
+        447
+      ]
+    },
+    {
+      "index": 5,
+      "file": "public/assets/generated/nova/jump-5.png",
+      "sourceBox": [
+        1447,
+        376,
+        1693,
+        659
+      ],
+      "trimmedSize": [
+        246,
+        283
+      ]
+    },
+    {
+      "index": 6,
+      "file": "public/assets/generated/nova/jump-6.png",
+      "sourceBox": [
+        1747,
+        217,
+        1971,
+        659
+      ],
+      "trimmedSize": [
+        224,
+        442
+      ]
+    }
+  ]
+}

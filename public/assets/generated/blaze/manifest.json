@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/blaze-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/blaze/idle.png",
+      "variants": [
+        "public/assets/generated/blaze/idle-0.png",
+        "public/assets/generated/blaze/idle-1.png",
+        "public/assets/generated/blaze/idle-2.png",
+        "public/assets/generated/blaze/idle-3.png",
+        "public/assets/generated/blaze/idle-4.png",
+        "public/assets/generated/blaze/idle-5.png",
+        "public/assets/generated/blaze/idle-6.png",
+        "public/assets/generated/blaze/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/blaze/run.png",
+      "variants": [
+        "public/assets/generated/blaze/run-0.png",
+        "public/assets/generated/blaze/run-1.png",
+        "public/assets/generated/blaze/run-2.png",
+        "public/assets/generated/blaze/run-3.png",
+        "public/assets/generated/blaze/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/blaze/walk.png",
+      "variants": [
+        "public/assets/generated/blaze/walk-0.png",
+        "public/assets/generated/blaze/walk-1.png",
+        "public/assets/generated/blaze/walk-2.png",
+        "public/assets/generated/blaze/walk-3.png",
+        "public/assets/generated/blaze/walk-4.png",
+        "public/assets/generated/blaze/walk-5.png",
+        "public/assets/generated/blaze/walk-6.png",
+        "public/assets/generated/blaze/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/blaze/crouch.png",
+      "variants": [
+        "public/assets/generated/blaze/crouch-0.png",
+        "public/assets/generated/blaze/crouch-1.png",
+        "public/assets/generated/blaze/crouch-2.png",
+        "public/assets/generated/blaze/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/blaze/jump.png",
+      "variants": [
+        "public/assets/generated/blaze/jump-0.png",
+        "public/assets/generated/blaze/jump-1.png",
+        "public/assets/generated/blaze/jump-2.png",
+        "public/assets/generated/blaze/jump-3.png",
+        "public/assets/generated/blaze/jump-4.png",
+        "public/assets/generated/blaze/jump-5.png",
+        "public/assets/generated/blaze/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/blaze/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/blaze/jump-tuck-0.png",
+        "public/assets/generated/blaze/jump-tuck-1.png",
+        "public/assets/generated/blaze/jump-tuck-2.png",
+        "public/assets/generated/blaze/jump-tuck-3.png",
+        "public/assets/generated/blaze/jump-tuck-4.png",
+        "public/assets/generated/blaze/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/blaze/light.png",
+      "variants": [
+        "public/assets/generated/blaze/light-0.png",
+        "public/assets/generated/blaze/light-1.png",
+        "public/assets/generated/blaze/light-2.png",
+        "public/assets/generated/blaze/light-3.png",
+        "public/assets/generated/blaze/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/blaze/heavy.png",
+      "variants": [
+        "public/assets/generated/blaze/heavy-0.png",
+        "public/assets/generated/blaze/heavy-1.png",
+        "public/assets/generated/blaze/heavy-2.png",
+        "public/assets/generated/blaze/heavy-3.png",
+        "public/assets/generated/blaze/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/blaze/kick.png",
+      "variants": [
+        "public/assets/generated/blaze/kick-0.png",
+        "public/assets/generated/blaze/kick-1.png",
+        "public/assets/generated/blaze/kick-2.png",
+        "public/assets/generated/blaze/kick-3.png",
+        "public/assets/generated/blaze/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/blaze/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/blaze/crouch-punch-0.png",
+        "public/assets/generated/blaze/crouch-punch-1.png",
+        "public/assets/generated/blaze/crouch-punch-2.png",
+        "public/assets/generated/blaze/crouch-punch-3.png",
+        "public/assets/generated/blaze/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/blaze/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/blaze/crouch-kick-0.png",
+        "public/assets/generated/blaze/crouch-kick-1.png",
+        "public/assets/generated/blaze/crouch-kick-2.png",
+        "public/assets/generated/blaze/crouch-kick-3.png",
+        "public/assets/generated/blaze/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/blaze/hit.png",
+      "variants": [
+        "public/assets/generated/blaze/hit-0.png",
+        "public/assets/generated/blaze/hit-1.png",
+        "public/assets/generated/blaze/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/blaze/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/blaze/crouch-hit-0.png",
+        "public/assets/generated/blaze/crouch-hit-1.png",
+        "public/assets/generated/blaze/crouch-hit-2.png",
+        "public/assets/generated/blaze/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/blaze/air-hit.png",
+      "variants": [
+        "public/assets/generated/blaze/air-hit-0.png",
+        "public/assets/generated/blaze/air-hit-1.png",
+        "public/assets/generated/blaze/air-hit-2.png",
+        "public/assets/generated/blaze/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/blaze/block.png",
+      "variants": [
+        "public/assets/generated/blaze/block-0.png",
+        "public/assets/generated/blaze/block-1.png",
+        "public/assets/generated/blaze/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/blaze/landing.png",
+      "variants": [
+        "public/assets/generated/blaze/landing-0.png",
+        "public/assets/generated/blaze/landing-1.png",
+        "public/assets/generated/blaze/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/blaze/knockdown.png",
+      "variants": [
+        "public/assets/generated/blaze/knockdown-0.png",
+        "public/assets/generated/blaze/knockdown-1.png",
+        "public/assets/generated/blaze/knockdown-2.png",
+        "public/assets/generated/blaze/knockdown-3.png",
+        "public/assets/generated/blaze/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/blaze/wake.png",
+      "variants": [
+        "public/assets/generated/blaze/wake-0.png",
+        "public/assets/generated/blaze/wake-1.png",
+        "public/assets/generated/blaze/wake-2.png",
+        "public/assets/generated/blaze/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/blaze/ko.png",
+      "variants": [
+        "public/assets/generated/blaze/ko-0.png",
+        "public/assets/generated/blaze/ko-1.png",
+        "public/assets/generated/blaze/ko-2.png",
+        "public/assets/generated/blaze/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/blaze/victory.png",
+      "variants": [
+        "public/assets/generated/blaze/victory-0.png",
+        "public/assets/generated/blaze/victory-1.png",
+        "public/assets/generated/blaze/victory-2.png",
+        "public/assets/generated/blaze/victory-3.png",
+        "public/assets/generated/blaze/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/blaze/special.png",
+      "variants": [
+        "public/assets/generated/blaze/special-0.png",
+        "public/assets/generated/blaze/special-1.png",
+        "public/assets/generated/blaze/special-2.png",
+        "public/assets/generated/blaze/special-3.png",
+        "public/assets/generated/blaze/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/blaze/super.png",
+      "variants": [
+        "public/assets/generated/blaze/super-0.png",
+        "public/assets/generated/blaze/super-1.png",
+        "public/assets/generated/blaze/super-2.png",
+        "public/assets/generated/blaze/super-3.png",
+        "public/assets/generated/blaze/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/blaze/throw.png",
+      "variants": [
+        "public/assets/generated/blaze/throw-0.png",
+        "public/assets/generated/blaze/throw-1.png",
+        "public/assets/generated/blaze/throw-2.png",
+        "public/assets/generated/blaze/throw-3.png"
+      ]
+    }
+  ]
+}

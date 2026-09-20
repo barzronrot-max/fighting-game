@@ -1,0 +1,291 @@
+{
+  "source": "public/assets/generated/nova-spritesheet-001-alpha.png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "footPadding": 6,
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/nova/idle.png",
+      "variants": [
+        "public/assets/generated/nova/idle-0.png",
+        "public/assets/generated/nova/idle-1.png",
+        "public/assets/generated/nova/idle-2.png",
+        "public/assets/generated/nova/idle-3.png",
+        "public/assets/generated/nova/idle-4.png",
+        "public/assets/generated/nova/idle-5.png",
+        "public/assets/generated/nova/idle-6.png",
+        "public/assets/generated/nova/idle-7.png"
+      ],
+      "sourceBox": [
+        45,
+        145,
+        305,
+        612
+      ],
+      "trimmedSize": [
+        260,
+        467
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/nova/walk.png",
+      "variants": [
+        "public/assets/generated/nova/walk-0.png",
+        "public/assets/generated/nova/walk-1.png",
+        "public/assets/generated/nova/walk-2.png",
+        "public/assets/generated/nova/walk-3.png",
+        "public/assets/generated/nova/walk-4.png",
+        "public/assets/generated/nova/walk-5.png",
+        "public/assets/generated/nova/walk-6.png",
+        "public/assets/generated/nova/walk-7.png"
+      ],
+      "sourceBox": [
+        322,
+        153,
+        570,
+        612
+      ],
+      "trimmedSize": [
+        248,
+        459
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/nova/crouch.png",
+      "variants": [
+        "public/assets/generated/nova/crouch-0.png",
+        "public/assets/generated/nova/crouch-1.png",
+        "public/assets/generated/nova/crouch-2.png",
+        "public/assets/generated/nova/crouch-3.png"
+      ],
+      "sourceBox": [
+        579,
+        314,
+        832,
+        615
+      ],
+      "trimmedSize": [
+        253,
+        301
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/nova/jump.png",
+      "variants": [
+        "public/assets/generated/nova/jump-0.png",
+        "public/assets/generated/nova/jump-1.png",
+        "public/assets/generated/nova/jump-2.png",
+        "public/assets/generated/nova/jump-3.png",
+        "public/assets/generated/nova/jump-4.png"
+      ],
+      "sourceBox": [
+        804,
+        72,
+        1021,
+        568
+      ],
+      "trimmedSize": [
+        217,
+        496
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/nova/light.png",
+      "variants": [
+        "public/assets/generated/nova/light-0.png",
+        "public/assets/generated/nova/light-1.png",
+        "public/assets/generated/nova/light-2.png",
+        "public/assets/generated/nova/light-3.png",
+        "public/assets/generated/nova/light-4.png"
+      ],
+      "sourceBox": [
+        1023,
+        176,
+        1341,
+        623
+      ],
+      "trimmedSize": [
+        318,
+        447
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/nova/heavy.png",
+      "variants": [
+        "public/assets/generated/nova/heavy-0.png",
+        "public/assets/generated/nova/heavy-1.png",
+        "public/assets/generated/nova/heavy-2.png",
+        "public/assets/generated/nova/heavy-3.png",
+        "public/assets/generated/nova/heavy-4.png"
+      ],
+      "sourceBox": [
+        1322,
+        169,
+        1588,
+        623
+      ],
+      "trimmedSize": [
+        266,
+        454
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/nova/kick.png",
+      "variants": [
+        "public/assets/generated/nova/kick-0.png",
+        "public/assets/generated/nova/kick-1.png",
+        "public/assets/generated/nova/kick-2.png",
+        "public/assets/generated/nova/kick-3.png",
+        "public/assets/generated/nova/kick-4.png"
+      ],
+      "sourceBox": [
+        1549,
+        181,
+        1938,
+        621
+      ],
+      "trimmedSize": [
+        389,
+        440
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/nova/hit.png",
+      "variants": [
+        "public/assets/generated/nova/hit-0.png",
+        "public/assets/generated/nova/hit-1.png",
+        "public/assets/generated/nova/hit-2.png"
+      ],
+      "sourceBox": [
+        1847,
+        249,
+        2137,
+        623
+      ],
+      "trimmedSize": [
+        290,
+        374
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/nova/block.png",
+      "variants": [
+        "public/assets/generated/nova/block-0.png",
+        "public/assets/generated/nova/block-1.png",
+        "public/assets/generated/nova/block-2.png"
+      ],
+      "source": "public/assets/generated/nova-block-gen.png",
+      "scale": 0.7059
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/nova/landing.png",
+      "variants": [
+        "public/assets/generated/nova/landing-0.png",
+        "public/assets/generated/nova/landing-1.png",
+        "public/assets/generated/nova/landing-2.png"
+      ],
+      "source": "public/assets/generated/nova-landing-gen.png",
+      "scale": 0.6898
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/nova/wake.png",
+      "variants": [
+        "public/assets/generated/nova/wake-0.png",
+        "public/assets/generated/nova/wake-1.png",
+        "public/assets/generated/nova/wake-2.png",
+        "public/assets/generated/nova/wake-3.png"
+      ],
+      "source": "public/assets/generated/nova-wake-gen.png",
+      "scale": 0.5778
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/nova/ko.png",
+      "variants": [
+        "public/assets/generated/nova/ko-0.png",
+        "public/assets/generated/nova/ko-1.png",
+        "public/assets/generated/nova/ko-2.png",
+        "public/assets/generated/nova/ko-3.png"
+      ],
+      "source": "public/assets/generated/nova-ko-gen.png",
+      "scale": 0.607
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/nova/victory.png",
+      "variants": [
+        "public/assets/generated/nova/victory-0.png",
+        "public/assets/generated/nova/victory-1.png",
+        "public/assets/generated/nova/victory-2.png",
+        "public/assets/generated/nova/victory-3.png",
+        "public/assets/generated/nova/victory-4.png"
+      ],
+      "source": "public/assets/generated/nova-victory-gen.png",
+      "scale": 0.537
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/nova/knockdown.png",
+      "variants": [
+        "public/assets/generated/nova/knockdown-0.png",
+        "public/assets/generated/nova/knockdown-1.png",
+        "public/assets/generated/nova/knockdown-2.png",
+        "public/assets/generated/nova/knockdown-3.png",
+        "public/assets/generated/nova/knockdown-4.png"
+      ],
+      "source": "public/assets/generated/nova-knockdown-gen.png",
+      "scale": 0.6681
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/nova/throw.png",
+      "variants": [
+        "public/assets/generated/nova/throw-0.png",
+        "public/assets/generated/nova/throw-1.png",
+        "public/assets/generated/nova/throw-2.png",
+        "public/assets/generated/nova/throw-3.png"
+      ],
+      "source": "public/assets/generated/nova-throw-gen.png",
+      "scale": 0.6555
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/nova/special.png",
+      "variants": [
+        "public/assets/generated/nova/special-0.png",
+        "public/assets/generated/nova/special-1.png",
+        "public/assets/generated/nova/special-2.png",
+        "public/assets/generated/nova/special-3.png",
+        "public/assets/generated/nova/special-4.png"
+      ],
+      "source": "public/assets/generated/nova-special-gen.png",
+      "scale": 0.7307
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/nova/super.png",
+      "variants": [
+        "public/assets/generated/nova/super-0.png",
+        "public/assets/generated/nova/super-1.png",
+        "public/assets/generated/nova/super-2.png",
+        "public/assets/generated/nova/super-3.png",
+        "public/assets/generated/nova/super-4.png"
+      ],
+      "source": "public/assets/generated/nova-super-gen.png",
+      "scale": 0.8179
+    }
+  ]
+}

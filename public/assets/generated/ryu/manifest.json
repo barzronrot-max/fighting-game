@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/ryu-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/ryu/idle.png",
+      "variants": [
+        "public/assets/generated/ryu/idle-0.png",
+        "public/assets/generated/ryu/idle-1.png",
+        "public/assets/generated/ryu/idle-2.png",
+        "public/assets/generated/ryu/idle-3.png",
+        "public/assets/generated/ryu/idle-4.png",
+        "public/assets/generated/ryu/idle-5.png",
+        "public/assets/generated/ryu/idle-6.png",
+        "public/assets/generated/ryu/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/ryu/run.png",
+      "variants": [
+        "public/assets/generated/ryu/run-0.png",
+        "public/assets/generated/ryu/run-1.png",
+        "public/assets/generated/ryu/run-2.png",
+        "public/assets/generated/ryu/run-3.png",
+        "public/assets/generated/ryu/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/ryu/walk.png",
+      "variants": [
+        "public/assets/generated/ryu/walk-0.png",
+        "public/assets/generated/ryu/walk-1.png",
+        "public/assets/generated/ryu/walk-2.png",
+        "public/assets/generated/ryu/walk-3.png",
+        "public/assets/generated/ryu/walk-4.png",
+        "public/assets/generated/ryu/walk-5.png",
+        "public/assets/generated/ryu/walk-6.png",
+        "public/assets/generated/ryu/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/ryu/crouch.png",
+      "variants": [
+        "public/assets/generated/ryu/crouch-0.png",
+        "public/assets/generated/ryu/crouch-1.png",
+        "public/assets/generated/ryu/crouch-2.png",
+        "public/assets/generated/ryu/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/ryu/jump.png",
+      "variants": [
+        "public/assets/generated/ryu/jump-0.png",
+        "public/assets/generated/ryu/jump-1.png",
+        "public/assets/generated/ryu/jump-2.png",
+        "public/assets/generated/ryu/jump-3.png",
+        "public/assets/generated/ryu/jump-4.png",
+        "public/assets/generated/ryu/jump-5.png",
+        "public/assets/generated/ryu/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/ryu/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/ryu/jump-tuck-0.png",
+        "public/assets/generated/ryu/jump-tuck-1.png",
+        "public/assets/generated/ryu/jump-tuck-2.png",
+        "public/assets/generated/ryu/jump-tuck-3.png",
+        "public/assets/generated/ryu/jump-tuck-4.png",
+        "public/assets/generated/ryu/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/ryu/light.png",
+      "variants": [
+        "public/assets/generated/ryu/light-0.png",
+        "public/assets/generated/ryu/light-1.png",
+        "public/assets/generated/ryu/light-2.png",
+        "public/assets/generated/ryu/light-3.png",
+        "public/assets/generated/ryu/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/ryu/heavy.png",
+      "variants": [
+        "public/assets/generated/ryu/heavy-0.png",
+        "public/assets/generated/ryu/heavy-1.png",
+        "public/assets/generated/ryu/heavy-2.png",
+        "public/assets/generated/ryu/heavy-3.png",
+        "public/assets/generated/ryu/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/ryu/kick.png",
+      "variants": [
+        "public/assets/generated/ryu/kick-0.png",
+        "public/assets/generated/ryu/kick-1.png",
+        "public/assets/generated/ryu/kick-2.png",
+        "public/assets/generated/ryu/kick-3.png",
+        "public/assets/generated/ryu/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/ryu/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/ryu/crouch-punch-0.png",
+        "public/assets/generated/ryu/crouch-punch-1.png",
+        "public/assets/generated/ryu/crouch-punch-2.png",
+        "public/assets/generated/ryu/crouch-punch-3.png",
+        "public/assets/generated/ryu/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/ryu/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/ryu/crouch-kick-0.png",
+        "public/assets/generated/ryu/crouch-kick-1.png",
+        "public/assets/generated/ryu/crouch-kick-2.png",
+        "public/assets/generated/ryu/crouch-kick-3.png",
+        "public/assets/generated/ryu/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/ryu/hit.png",
+      "variants": [
+        "public/assets/generated/ryu/hit-0.png",
+        "public/assets/generated/ryu/hit-1.png",
+        "public/assets/generated/ryu/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/ryu/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/ryu/crouch-hit-0.png",
+        "public/assets/generated/ryu/crouch-hit-1.png",
+        "public/assets/generated/ryu/crouch-hit-2.png",
+        "public/assets/generated/ryu/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/ryu/air-hit.png",
+      "variants": [
+        "public/assets/generated/ryu/air-hit-0.png",
+        "public/assets/generated/ryu/air-hit-1.png",
+        "public/assets/generated/ryu/air-hit-2.png",
+        "public/assets/generated/ryu/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/ryu/block.png",
+      "variants": [
+        "public/assets/generated/ryu/block-0.png",
+        "public/assets/generated/ryu/block-1.png",
+        "public/assets/generated/ryu/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/ryu/landing.png",
+      "variants": [
+        "public/assets/generated/ryu/landing-0.png",
+        "public/assets/generated/ryu/landing-1.png",
+        "public/assets/generated/ryu/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/ryu/knockdown.png",
+      "variants": [
+        "public/assets/generated/ryu/knockdown-0.png",
+        "public/assets/generated/ryu/knockdown-1.png",
+        "public/assets/generated/ryu/knockdown-2.png",
+        "public/assets/generated/ryu/knockdown-3.png",
+        "public/assets/generated/ryu/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/ryu/wake.png",
+      "variants": [
+        "public/assets/generated/ryu/wake-0.png",
+        "public/assets/generated/ryu/wake-1.png",
+        "public/assets/generated/ryu/wake-2.png",
+        "public/assets/generated/ryu/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/ryu/ko.png",
+      "variants": [
+        "public/assets/generated/ryu/ko-0.png",
+        "public/assets/generated/ryu/ko-1.png",
+        "public/assets/generated/ryu/ko-2.png",
+        "public/assets/generated/ryu/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/ryu/victory.png",
+      "variants": [
+        "public/assets/generated/ryu/victory-0.png",
+        "public/assets/generated/ryu/victory-1.png",
+        "public/assets/generated/ryu/victory-2.png",
+        "public/assets/generated/ryu/victory-3.png",
+        "public/assets/generated/ryu/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/ryu/special.png",
+      "variants": [
+        "public/assets/generated/ryu/special-0.png",
+        "public/assets/generated/ryu/special-1.png",
+        "public/assets/generated/ryu/special-2.png",
+        "public/assets/generated/ryu/special-3.png",
+        "public/assets/generated/ryu/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/ryu/super.png",
+      "variants": [
+        "public/assets/generated/ryu/super-0.png",
+        "public/assets/generated/ryu/super-1.png",
+        "public/assets/generated/ryu/super-2.png",
+        "public/assets/generated/ryu/super-3.png",
+        "public/assets/generated/ryu/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/ryu/throw.png",
+      "variants": [
+        "public/assets/generated/ryu/throw-0.png",
+        "public/assets/generated/ryu/throw-1.png",
+        "public/assets/generated/ryu/throw-2.png",
+        "public/assets/generated/ryu/throw-3.png"
+      ]
+    }
+  ]
+}

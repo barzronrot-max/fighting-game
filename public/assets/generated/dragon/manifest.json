@@ -1,0 +1,259 @@
+{
+  "source": "gpt-image-2 (2 sheets)",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/dragon/idle.png",
+      "variants": [
+        "public/assets/generated/dragon/idle-0.png",
+        "public/assets/generated/dragon/idle-1.png",
+        "public/assets/generated/dragon/idle-2.png",
+        "public/assets/generated/dragon/idle-3.png",
+        "public/assets/generated/dragon/idle-4.png",
+        "public/assets/generated/dragon/idle-5.png",
+        "public/assets/generated/dragon/idle-6.png",
+        "public/assets/generated/dragon/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/dragon/run.png",
+      "variants": [
+        "public/assets/generated/dragon/run-0.png",
+        "public/assets/generated/dragon/run-1.png",
+        "public/assets/generated/dragon/run-2.png",
+        "public/assets/generated/dragon/run-3.png",
+        "public/assets/generated/dragon/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/dragon/walk.png",
+      "variants": [
+        "public/assets/generated/dragon/walk-0.png",
+        "public/assets/generated/dragon/walk-1.png",
+        "public/assets/generated/dragon/walk-2.png",
+        "public/assets/generated/dragon/walk-3.png",
+        "public/assets/generated/dragon/walk-4.png",
+        "public/assets/generated/dragon/walk-5.png",
+        "public/assets/generated/dragon/walk-6.png",
+        "public/assets/generated/dragon/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/dragon/crouch.png",
+      "variants": [
+        "public/assets/generated/dragon/crouch-0.png",
+        "public/assets/generated/dragon/crouch-1.png",
+        "public/assets/generated/dragon/crouch-2.png",
+        "public/assets/generated/dragon/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/dragon/jump.png",
+      "variants": [
+        "public/assets/generated/dragon/jump-0.png",
+        "public/assets/generated/dragon/jump-1.png",
+        "public/assets/generated/dragon/jump-2.png",
+        "public/assets/generated/dragon/jump-3.png",
+        "public/assets/generated/dragon/jump-4.png",
+        "public/assets/generated/dragon/jump-5.png",
+        "public/assets/generated/dragon/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/dragon/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/dragon/jump-tuck-0.png",
+        "public/assets/generated/dragon/jump-tuck-1.png",
+        "public/assets/generated/dragon/jump-tuck-2.png",
+        "public/assets/generated/dragon/jump-tuck-3.png",
+        "public/assets/generated/dragon/jump-tuck-4.png",
+        "public/assets/generated/dragon/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/dragon/light.png",
+      "variants": [
+        "public/assets/generated/dragon/light-0.png",
+        "public/assets/generated/dragon/light-1.png",
+        "public/assets/generated/dragon/light-2.png",
+        "public/assets/generated/dragon/light-3.png",
+        "public/assets/generated/dragon/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/dragon/heavy.png",
+      "variants": [
+        "public/assets/generated/dragon/heavy-0.png",
+        "public/assets/generated/dragon/heavy-1.png",
+        "public/assets/generated/dragon/heavy-2.png",
+        "public/assets/generated/dragon/heavy-3.png",
+        "public/assets/generated/dragon/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/dragon/kick.png",
+      "variants": [
+        "public/assets/generated/dragon/kick-0.png",
+        "public/assets/generated/dragon/kick-1.png",
+        "public/assets/generated/dragon/kick-2.png",
+        "public/assets/generated/dragon/kick-3.png",
+        "public/assets/generated/dragon/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/dragon/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/dragon/crouch-punch-0.png",
+        "public/assets/generated/dragon/crouch-punch-1.png",
+        "public/assets/generated/dragon/crouch-punch-2.png",
+        "public/assets/generated/dragon/crouch-punch-3.png",
+        "public/assets/generated/dragon/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/dragon/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/dragon/crouch-kick-0.png",
+        "public/assets/generated/dragon/crouch-kick-1.png",
+        "public/assets/generated/dragon/crouch-kick-2.png",
+        "public/assets/generated/dragon/crouch-kick-3.png",
+        "public/assets/generated/dragon/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/dragon/hit.png",
+      "variants": [
+        "public/assets/generated/dragon/hit-0.png",
+        "public/assets/generated/dragon/hit-1.png",
+        "public/assets/generated/dragon/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/dragon/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/dragon/crouch-hit-0.png",
+        "public/assets/generated/dragon/crouch-hit-1.png",
+        "public/assets/generated/dragon/crouch-hit-2.png",
+        "public/assets/generated/dragon/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/dragon/air-hit.png",
+      "variants": [
+        "public/assets/generated/dragon/air-hit-0.png",
+        "public/assets/generated/dragon/air-hit-1.png",
+        "public/assets/generated/dragon/air-hit-2.png",
+        "public/assets/generated/dragon/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/dragon/block.png",
+      "variants": [
+        "public/assets/generated/dragon/block-0.png",
+        "public/assets/generated/dragon/block-1.png",
+        "public/assets/generated/dragon/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/dragon/landing.png",
+      "variants": [
+        "public/assets/generated/dragon/landing-0.png",
+        "public/assets/generated/dragon/landing-1.png",
+        "public/assets/generated/dragon/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/dragon/knockdown.png",
+      "variants": [
+        "public/assets/generated/dragon/knockdown-0.png",
+        "public/assets/generated/dragon/knockdown-1.png",
+        "public/assets/generated/dragon/knockdown-2.png",
+        "public/assets/generated/dragon/knockdown-3.png",
+        "public/assets/generated/dragon/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/dragon/wake.png",
+      "variants": [
+        "public/assets/generated/dragon/wake-0.png",
+        "public/assets/generated/dragon/wake-1.png",
+        "public/assets/generated/dragon/wake-2.png",
+        "public/assets/generated/dragon/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/dragon/ko.png",
+      "variants": [
+        "public/assets/generated/dragon/ko-0.png",
+        "public/assets/generated/dragon/ko-1.png",
+        "public/assets/generated/dragon/ko-2.png",
+        "public/assets/generated/dragon/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/dragon/victory.png",
+      "variants": [
+        "public/assets/generated/dragon/victory-0.png",
+        "public/assets/generated/dragon/victory-1.png",
+        "public/assets/generated/dragon/victory-2.png",
+        "public/assets/generated/dragon/victory-3.png",
+        "public/assets/generated/dragon/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/dragon/special.png",
+      "variants": [
+        "public/assets/generated/dragon/special-0.png",
+        "public/assets/generated/dragon/special-1.png",
+        "public/assets/generated/dragon/special-2.png",
+        "public/assets/generated/dragon/special-3.png",
+        "public/assets/generated/dragon/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/dragon/super.png",
+      "variants": [
+        "public/assets/generated/dragon/super-0.png",
+        "public/assets/generated/dragon/super-1.png",
+        "public/assets/generated/dragon/super-2.png",
+        "public/assets/generated/dragon/super-3.png",
+        "public/assets/generated/dragon/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/dragon/throw.png",
+      "variants": [
+        "public/assets/generated/dragon/throw-0.png",
+        "public/assets/generated/dragon/throw-1.png",
+        "public/assets/generated/dragon/throw-2.png",
+        "public/assets/generated/dragon/throw-3.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/talon-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/talon/idle.png",
+      "variants": [
+        "public/assets/generated/talon/idle-0.png",
+        "public/assets/generated/talon/idle-1.png",
+        "public/assets/generated/talon/idle-2.png",
+        "public/assets/generated/talon/idle-3.png",
+        "public/assets/generated/talon/idle-4.png",
+        "public/assets/generated/talon/idle-5.png",
+        "public/assets/generated/talon/idle-6.png",
+        "public/assets/generated/talon/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/talon/run.png",
+      "variants": [
+        "public/assets/generated/talon/run-0.png",
+        "public/assets/generated/talon/run-1.png",
+        "public/assets/generated/talon/run-2.png",
+        "public/assets/generated/talon/run-3.png",
+        "public/assets/generated/talon/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/talon/walk.png",
+      "variants": [
+        "public/assets/generated/talon/walk-0.png",
+        "public/assets/generated/talon/walk-1.png",
+        "public/assets/generated/talon/walk-2.png",
+        "public/assets/generated/talon/walk-3.png",
+        "public/assets/generated/talon/walk-4.png",
+        "public/assets/generated/talon/walk-5.png",
+        "public/assets/generated/talon/walk-6.png",
+        "public/assets/generated/talon/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/talon/crouch.png",
+      "variants": [
+        "public/assets/generated/talon/crouch-0.png",
+        "public/assets/generated/talon/crouch-1.png",
+        "public/assets/generated/talon/crouch-2.png",
+        "public/assets/generated/talon/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/talon/jump.png",
+      "variants": [
+        "public/assets/generated/talon/jump-0.png",
+        "public/assets/generated/talon/jump-1.png",
+        "public/assets/generated/talon/jump-2.png",
+        "public/assets/generated/talon/jump-3.png",
+        "public/assets/generated/talon/jump-4.png",
+        "public/assets/generated/talon/jump-5.png",
+        "public/assets/generated/talon/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/talon/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/talon/jump-tuck-0.png",
+        "public/assets/generated/talon/jump-tuck-1.png",
+        "public/assets/generated/talon/jump-tuck-2.png",
+        "public/assets/generated/talon/jump-tuck-3.png",
+        "public/assets/generated/talon/jump-tuck-4.png",
+        "public/assets/generated/talon/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/talon/light.png",
+      "variants": [
+        "public/assets/generated/talon/light-0.png",
+        "public/assets/generated/talon/light-1.png",
+        "public/assets/generated/talon/light-2.png",
+        "public/assets/generated/talon/light-3.png",
+        "public/assets/generated/talon/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/talon/heavy.png",
+      "variants": [
+        "public/assets/generated/talon/heavy-0.png",
+        "public/assets/generated/talon/heavy-1.png",
+        "public/assets/generated/talon/heavy-2.png",
+        "public/assets/generated/talon/heavy-3.png",
+        "public/assets/generated/talon/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/talon/kick.png",
+      "variants": [
+        "public/assets/generated/talon/kick-0.png",
+        "public/assets/generated/talon/kick-1.png",
+        "public/assets/generated/talon/kick-2.png",
+        "public/assets/generated/talon/kick-3.png",
+        "public/assets/generated/talon/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/talon/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/talon/crouch-punch-0.png",
+        "public/assets/generated/talon/crouch-punch-1.png",
+        "public/assets/generated/talon/crouch-punch-2.png",
+        "public/assets/generated/talon/crouch-punch-3.png",
+        "public/assets/generated/talon/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/talon/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/talon/crouch-kick-0.png",
+        "public/assets/generated/talon/crouch-kick-1.png",
+        "public/assets/generated/talon/crouch-kick-2.png",
+        "public/assets/generated/talon/crouch-kick-3.png",
+        "public/assets/generated/talon/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/talon/hit.png",
+      "variants": [
+        "public/assets/generated/talon/hit-0.png",
+        "public/assets/generated/talon/hit-1.png",
+        "public/assets/generated/talon/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/talon/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/talon/crouch-hit-0.png",
+        "public/assets/generated/talon/crouch-hit-1.png",
+        "public/assets/generated/talon/crouch-hit-2.png",
+        "public/assets/generated/talon/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/talon/air-hit.png",
+      "variants": [
+        "public/assets/generated/talon/air-hit-0.png",
+        "public/assets/generated/talon/air-hit-1.png",
+        "public/assets/generated/talon/air-hit-2.png",
+        "public/assets/generated/talon/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/talon/block.png",
+      "variants": [
+        "public/assets/generated/talon/block-0.png",
+        "public/assets/generated/talon/block-1.png",
+        "public/assets/generated/talon/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/talon/landing.png",
+      "variants": [
+        "public/assets/generated/talon/landing-0.png",
+        "public/assets/generated/talon/landing-1.png",
+        "public/assets/generated/talon/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/talon/knockdown.png",
+      "variants": [
+        "public/assets/generated/talon/knockdown-0.png",
+        "public/assets/generated/talon/knockdown-1.png",
+        "public/assets/generated/talon/knockdown-2.png",
+        "public/assets/generated/talon/knockdown-3.png",
+        "public/assets/generated/talon/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/talon/wake.png",
+      "variants": [
+        "public/assets/generated/talon/wake-0.png",
+        "public/assets/generated/talon/wake-1.png",
+        "public/assets/generated/talon/wake-2.png",
+        "public/assets/generated/talon/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/talon/ko.png",
+      "variants": [
+        "public/assets/generated/talon/ko-0.png",
+        "public/assets/generated/talon/ko-1.png",
+        "public/assets/generated/talon/ko-2.png",
+        "public/assets/generated/talon/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/talon/victory.png",
+      "variants": [
+        "public/assets/generated/talon/victory-0.png",
+        "public/assets/generated/talon/victory-1.png",
+        "public/assets/generated/talon/victory-2.png",
+        "public/assets/generated/talon/victory-3.png",
+        "public/assets/generated/talon/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/talon/special.png",
+      "variants": [
+        "public/assets/generated/talon/special-0.png",
+        "public/assets/generated/talon/special-1.png",
+        "public/assets/generated/talon/special-2.png",
+        "public/assets/generated/talon/special-3.png",
+        "public/assets/generated/talon/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/talon/super.png",
+      "variants": [
+        "public/assets/generated/talon/super-0.png",
+        "public/assets/generated/talon/super-1.png",
+        "public/assets/generated/talon/super-2.png",
+        "public/assets/generated/talon/super-3.png",
+        "public/assets/generated/talon/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/talon/throw.png",
+      "variants": [
+        "public/assets/generated/talon/throw-0.png",
+        "public/assets/generated/talon/throw-1.png",
+        "public/assets/generated/talon/throw-2.png",
+        "public/assets/generated/talon/throw-3.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+.nd-touch {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 40;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: end;
+  gap: 16px;
+  padding: 18px 20px calc(18px + env(safe-area-inset-bottom));
+  pointer-events: none;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.nd-touch > * { pointer-events: auto; }
+
+.nd-pad {
+  display: grid;
+  grid-template-columns: repeat(3, 52px);
+  grid-template-rows: repeat(3, 52px);
+  gap: 4px;
+}
+.nd-pad [data-nd-control="left"]  { grid-area: 2 / 1; }
+.nd-pad [data-nd-control="down"]  { grid-area: 3 / 2; }
+.nd-pad [data-nd-control="right"] { grid-area: 2 / 3; }
+.nd-pad [data-nd-control="up"]    { grid-area: 1 / 2; }
+
+.nd-cluster {
+  display: grid;
+  grid-template-columns: repeat(2, 56px);
+  gap: 10px;
+}
+
+.nd-btn {
+  display: grid;
+  place-items: center;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 12px;
+  background: rgba(12, 8, 22, 0.62);
+  color: #fff3c4;
+  font: 600 12px/1 Consolas, "Courier New", monospace;
+  letter-spacing: 0.04em;
+  height: 52px;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  transition: transform 90ms ease-out, background 90ms ease-out;
+}
+.nd-btn:active,
+.nd-btn[data-pressed="true"] {
+  transform: scale(0.94);
+  background: rgba(250, 159, 50, 0.85);
+  color: #2b1206;
+}
+.nd-btn.round { border-radius: 50%; height: 56px; }
+
+/* Portrait: the FIT-scaled 16:9 canvas leaves room below it, so the
+   overlay is fully opaque and sits clear of the fight. */
+@media (orientation: portrait) {
+  .nd-touch { background: linear-gradient(180deg, transparent, rgba(6, 4, 12, 0.75) 40%); }
+}
+
+/* Landscape: no letterbox room, so the overlay floats over the stage floor
+   at the bottom corners, out of the HUD and away from both fighters. */
+@media (orientation: landscape) {
+  .nd-touch { opacity: 0.72; padding-bottom: calc(10px + env(safe-area-inset-bottom)); }
+  .nd-pad { grid-template-columns: repeat(3, 46px); grid-template-rows: repeat(3, 46px); }
+  .nd-btn { height: 46px; }
+  .nd-btn.round { height: 50px; }
+}

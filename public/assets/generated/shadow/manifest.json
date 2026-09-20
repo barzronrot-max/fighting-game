@@ -1,0 +1,259 @@
+{
+  "source": "tmp/roster/shadow-s[abcd].png",
+  "canvasSize": [
+    320,
+    560
+  ],
+  "states": [
+    {
+      "state": "idle",
+      "file": "public/assets/generated/shadow/idle.png",
+      "variants": [
+        "public/assets/generated/shadow/idle-0.png",
+        "public/assets/generated/shadow/idle-1.png",
+        "public/assets/generated/shadow/idle-2.png",
+        "public/assets/generated/shadow/idle-3.png",
+        "public/assets/generated/shadow/idle-4.png",
+        "public/assets/generated/shadow/idle-5.png",
+        "public/assets/generated/shadow/idle-6.png",
+        "public/assets/generated/shadow/idle-7.png"
+      ]
+    },
+    {
+      "state": "run",
+      "file": "public/assets/generated/shadow/run.png",
+      "variants": [
+        "public/assets/generated/shadow/run-0.png",
+        "public/assets/generated/shadow/run-1.png",
+        "public/assets/generated/shadow/run-2.png",
+        "public/assets/generated/shadow/run-3.png",
+        "public/assets/generated/shadow/run-4.png"
+      ]
+    },
+    {
+      "state": "walk",
+      "file": "public/assets/generated/shadow/walk.png",
+      "variants": [
+        "public/assets/generated/shadow/walk-0.png",
+        "public/assets/generated/shadow/walk-1.png",
+        "public/assets/generated/shadow/walk-2.png",
+        "public/assets/generated/shadow/walk-3.png",
+        "public/assets/generated/shadow/walk-4.png",
+        "public/assets/generated/shadow/walk-5.png",
+        "public/assets/generated/shadow/walk-6.png",
+        "public/assets/generated/shadow/walk-7.png"
+      ]
+    },
+    {
+      "state": "crouch",
+      "file": "public/assets/generated/shadow/crouch.png",
+      "variants": [
+        "public/assets/generated/shadow/crouch-0.png",
+        "public/assets/generated/shadow/crouch-1.png",
+        "public/assets/generated/shadow/crouch-2.png",
+        "public/assets/generated/shadow/crouch-3.png"
+      ]
+    },
+    {
+      "state": "jump",
+      "file": "public/assets/generated/shadow/jump.png",
+      "variants": [
+        "public/assets/generated/shadow/jump-0.png",
+        "public/assets/generated/shadow/jump-1.png",
+        "public/assets/generated/shadow/jump-2.png",
+        "public/assets/generated/shadow/jump-3.png",
+        "public/assets/generated/shadow/jump-4.png",
+        "public/assets/generated/shadow/jump-5.png",
+        "public/assets/generated/shadow/jump-6.png"
+      ]
+    },
+    {
+      "state": "jump-tuck",
+      "file": "public/assets/generated/shadow/jump-tuck.png",
+      "variants": [
+        "public/assets/generated/shadow/jump-tuck-0.png",
+        "public/assets/generated/shadow/jump-tuck-1.png",
+        "public/assets/generated/shadow/jump-tuck-2.png",
+        "public/assets/generated/shadow/jump-tuck-3.png",
+        "public/assets/generated/shadow/jump-tuck-4.png",
+        "public/assets/generated/shadow/jump-tuck-5.png"
+      ]
+    },
+    {
+      "state": "light",
+      "file": "public/assets/generated/shadow/light.png",
+      "variants": [
+        "public/assets/generated/shadow/light-0.png",
+        "public/assets/generated/shadow/light-1.png",
+        "public/assets/generated/shadow/light-2.png",
+        "public/assets/generated/shadow/light-3.png",
+        "public/assets/generated/shadow/light-4.png"
+      ]
+    },
+    {
+      "state": "heavy",
+      "file": "public/assets/generated/shadow/heavy.png",
+      "variants": [
+        "public/assets/generated/shadow/heavy-0.png",
+        "public/assets/generated/shadow/heavy-1.png",
+        "public/assets/generated/shadow/heavy-2.png",
+        "public/assets/generated/shadow/heavy-3.png",
+        "public/assets/generated/shadow/heavy-4.png"
+      ]
+    },
+    {
+      "state": "kick",
+      "file": "public/assets/generated/shadow/kick.png",
+      "variants": [
+        "public/assets/generated/shadow/kick-0.png",
+        "public/assets/generated/shadow/kick-1.png",
+        "public/assets/generated/shadow/kick-2.png",
+        "public/assets/generated/shadow/kick-3.png",
+        "public/assets/generated/shadow/kick-4.png"
+      ]
+    },
+    {
+      "state": "crouch-punch",
+      "file": "public/assets/generated/shadow/crouch-punch.png",
+      "variants": [
+        "public/assets/generated/shadow/crouch-punch-0.png",
+        "public/assets/generated/shadow/crouch-punch-1.png",
+        "public/assets/generated/shadow/crouch-punch-2.png",
+        "public/assets/generated/shadow/crouch-punch-3.png",
+        "public/assets/generated/shadow/crouch-punch-4.png"
+      ]
+    },
+    {
+      "state": "crouch-kick",
+      "file": "public/assets/generated/shadow/crouch-kick.png",
+      "variants": [
+        "public/assets/generated/shadow/crouch-kick-0.png",
+        "public/assets/generated/shadow/crouch-kick-1.png",
+        "public/assets/generated/shadow/crouch-kick-2.png",
+        "public/assets/generated/shadow/crouch-kick-3.png",
+        "public/assets/generated/shadow/crouch-kick-4.png"
+      ]
+    },
+    {
+      "state": "hit",
+      "file": "public/assets/generated/shadow/hit.png",
+      "variants": [
+        "public/assets/generated/shadow/hit-0.png",
+        "public/assets/generated/shadow/hit-1.png",
+        "public/assets/generated/shadow/hit-2.png"
+      ]
+    },
+    {
+      "state": "crouch-hit",
+      "file": "public/assets/generated/shadow/crouch-hit.png",
+      "variants": [
+        "public/assets/generated/shadow/crouch-hit-0.png",
+        "public/assets/generated/shadow/crouch-hit-1.png",
+        "public/assets/generated/shadow/crouch-hit-2.png",
+        "public/assets/generated/shadow/crouch-hit-3.png"
+      ]
+    },
+    {
+      "state": "air-hit",
+      "file": "public/assets/generated/shadow/air-hit.png",
+      "variants": [
+        "public/assets/generated/shadow/air-hit-0.png",
+        "public/assets/generated/shadow/air-hit-1.png",
+        "public/assets/generated/shadow/air-hit-2.png",
+        "public/assets/generated/shadow/air-hit-3.png"
+      ]
+    },
+    {
+      "state": "block",
+      "file": "public/assets/generated/shadow/block.png",
+      "variants": [
+        "public/assets/generated/shadow/block-0.png",
+        "public/assets/generated/shadow/block-1.png",
+        "public/assets/generated/shadow/block-2.png"
+      ]
+    },
+    {
+      "state": "landing",
+      "file": "public/assets/generated/shadow/landing.png",
+      "variants": [
+        "public/assets/generated/shadow/landing-0.png",
+        "public/assets/generated/shadow/landing-1.png",
+        "public/assets/generated/shadow/landing-2.png"
+      ]
+    },
+    {
+      "state": "knockdown",
+      "file": "public/assets/generated/shadow/knockdown.png",
+      "variants": [
+        "public/assets/generated/shadow/knockdown-0.png",
+        "public/assets/generated/shadow/knockdown-1.png",
+        "public/assets/generated/shadow/knockdown-2.png",
+        "public/assets/generated/shadow/knockdown-3.png",
+        "public/assets/generated/shadow/knockdown-4.png"
+      ]
+    },
+    {
+      "state": "wake",
+      "file": "public/assets/generated/shadow/wake.png",
+      "variants": [
+        "public/assets/generated/shadow/wake-0.png",
+        "public/assets/generated/shadow/wake-1.png",
+        "public/assets/generated/shadow/wake-2.png",
+        "public/assets/generated/shadow/wake-3.png"
+      ]
+    },
+    {
+      "state": "ko",
+      "file": "public/assets/generated/shadow/ko.png",
+      "variants": [
+        "public/assets/generated/shadow/ko-0.png",
+        "public/assets/generated/shadow/ko-1.png",
+        "public/assets/generated/shadow/ko-2.png",
+        "public/assets/generated/shadow/ko-3.png"
+      ]
+    },
+    {
+      "state": "victory",
+      "file": "public/assets/generated/shadow/victory.png",
+      "variants": [
+        "public/assets/generated/shadow/victory-0.png",
+        "public/assets/generated/shadow/victory-1.png",
+        "public/assets/generated/shadow/victory-2.png",
+        "public/assets/generated/shadow/victory-3.png",
+        "public/assets/generated/shadow/victory-4.png"
+      ]
+    },
+    {
+      "state": "special",
+      "file": "public/assets/generated/shadow/special.png",
+      "variants": [
+        "public/assets/generated/shadow/special-0.png",
+        "public/assets/generated/shadow/special-1.png",
+        "public/assets/generated/shadow/special-2.png",
+        "public/assets/generated/shadow/special-3.png",
+        "public/assets/generated/shadow/special-4.png"
+      ]
+    },
+    {
+      "state": "super",
+      "file": "public/assets/generated/shadow/super.png",
+      "variants": [
+        "public/assets/generated/shadow/super-0.png",
+        "public/assets/generated/shadow/super-1.png",
+        "public/assets/generated/shadow/super-2.png",
+        "public/assets/generated/shadow/super-3.png",
+        "public/assets/generated/shadow/super-4.png"
+      ]
+    },
+    {
+      "state": "throw",
+      "file": "public/assets/generated/shadow/throw.png",
+      "variants": [
+        "public/assets/generated/shadow/throw-0.png",
+        "public/assets/generated/shadow/throw-1.png",
+        "public/assets/generated/shadow/throw-2.png",
+        "public/assets/generated/shadow/throw-3.png"
+      ]
+    }
+  ]
+}
